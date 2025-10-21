@@ -1,6 +1,9 @@
 # Power-BI-Financial report
-Demo Power BI report
-Scenario: A manager wants to see a report on the company's latest sales figures. They've requested an executive summary of:
+Project Objective 
+
+Scenario: A manager wants to see a report on the company's latest sales figures. 
+
+They've requested an executive summary of:
 
 •	Which month and year had the most profit?
 
